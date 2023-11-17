@@ -1,0 +1,39 @@
+@import"../css/global/header.css";
+@import"../css/global/global.css";
+@import"../css/global/footer.css";
+@import"../css/global/perguntas.css";
+@import"../css/global/menumobile.css";
+
+
+/* home */
+@import"../css/home/introducao.css";
+@import"../css/home/curso.css";
+@import"../css/home/planilha.css";
+@import"../css/home/contaiq.css";
+
+/* sala vip */
+@import"../css/salavip/introducaovip.css";
+@import"../css/salavip/grupofree.css";
+@import"../css/salavip/comprarvip.css";
+
+/* sala ao vivo */
+@import"../css/salaaovivo/aovivointro.css";
+@import"../css/salaaovivo/vantagens.css";
+
+/* robô blaze */
+@import"../css/roboblaze/blazeintro.css";
+@import"../css/roboblaze/blazeinfo.css";
+
+/* contato */
+@import"../css/contato/contatoform.css";
+
+
+/* utilidades */
+@import"../css/utilidades/cores.css";
+@import"../css/utilidades/tipografia.css";
+@import"../css/utilidades/componentes.css";
+@import"../css/utilidades/formulario.css";
+
+/* Externos */
+@import"../css/fompagamento/formpagamento.css";
+@import"../css/fompagamento/compraconcluida.css";
